@@ -1,0 +1,13 @@
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\bin\Debug\netcoreapp3.1\OrmucoQuestionA.exe
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\bin\Debug\netcoreapp3.1\OrmucoQuestionA.deps.json
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\bin\Debug\netcoreapp3.1\OrmucoQuestionA.runtimeconfig.json
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\bin\Debug\netcoreapp3.1\OrmucoQuestionA.runtimeconfig.dev.json
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\bin\Debug\netcoreapp3.1\OrmucoQuestionA.dll
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\bin\Debug\netcoreapp3.1\OrmucoQuestionA.pdb
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\obj\Debug\netcoreapp3.1\OrmucoQuestionA.AssemblyInfoInputs.cache
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\obj\Debug\netcoreapp3.1\OrmucoQuestionA.AssemblyInfo.cs
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\obj\Debug\netcoreapp3.1\OrmucoQuestionA.csproj.CoreCompileInputs.cache
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\obj\Debug\netcoreapp3.1\OrmucoQuestionA.dll
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\obj\Debug\netcoreapp3.1\OrmucoQuestionA.pdb
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\obj\Debug\netcoreapp3.1\OrmucoQuestionA.genruntimeconfig.cache
+C:\Users\hhbaieb\source\repos\OrmucoQuestionA\OrmucoQuestionA\obj\Debug\netcoreapp3.1\OrmucoQuestionA.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PCeZ2Ygqb8dHiTrWIU+J4RfOXNjM+JEN/iiseXaQrWgVGfmWvhRji3gtxbzHi3EX1S6fFSJiszjp6FEgy9C2qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hhbaieb\\source\\repos\\OrmucoQuestionA\\OrmucoQuestionA\\OrmucoQuestionA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hhbaieb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
